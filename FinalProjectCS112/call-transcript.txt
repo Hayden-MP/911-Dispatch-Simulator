@@ -1,0 +1,5 @@
+START TRANSCRIPT:
+Dispatcher (You): This is Dispatcher 103, where is the location of your emergency?
+Caller: Uh, hi -- Yeah, um, I just saw a truck plow right into the side of another car at a stop sign. The truck didn't stop it just kept going.
+Dispatcher (You): What is the location of the accident?
+Caller: At a 4-way stop sign intersection; Red St and.. yeah I believe it's Blue St.
